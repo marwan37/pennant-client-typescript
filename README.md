@@ -1,6 +1,8 @@
 # Pennant (client)
 
-pennant-notebook's client, rewritten in TypeScript for improved maintainability.
+This repository contains the React application for the pennant-notebook project.
+
+(rewritten in TypeScript for improved maintainability.)
 
 ## Overview
 
@@ -107,5 +109,6 @@ npm start
 - Contains notebook metadata, provider, awareness, doc and the `docID` for a given notebook.
 - Contains various functions for adding, deleting, cloning, and repositioning cells.
 
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
